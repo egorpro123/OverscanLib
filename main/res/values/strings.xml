@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">OverscanLib</string>
+    <string name="load_datas">Загрузка данных...</string>
+    
+    <string name="save_button">Сохранить</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="yes_button">Да</string>
+    <string name="no_button">Нет</string>
+    <string name="add_button">Добавить</string>
+
+    <string name="exit_without_saving_question">Выход без сохрания изменений?</string>
+    
+</resources>
